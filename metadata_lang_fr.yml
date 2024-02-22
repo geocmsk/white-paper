@@ -1,25 +1,17 @@
-title: A Decentralized Protocol for Remunerating the Open-Source Ecosystem
+title: Un protocole décentralisé pour rémunérer l’écosystème open source
 abstract: >
-  Creating an open, public and stable registry for all open-source software
-  would empower projects to publish releases independently rather than rely on
-  third parties who assemble this irregular data into hundreds of separate
-  (and duplicated) systems. Package maintainers will publish their releases to
-  a decentralized registry powered by a Byzantine fault-tolerant blockchain to
-  eliminate single sources of failure, provide immutable releases, and allow
-  communities to govern their regions of the open-source ecosystem,
-  independent of external agendas.
-  
-  tea incentivizes the maintenance of open-source by allowing network
-  participants to stake value against the packages they depend on and want to
-  secure. The tea protocol’s graph provides immutable package registration,
-  dependency requirements, package authenticity, and usage oracles to inform
-  the tea remuneration algorithm. Systematic inflation is distributed to all
-  packages based on that algorithm. If security or development issues are
-  found, developers can make claims supported by evidence against the package,
-  and slashing may occur. Members of the open-source community can review
-  packages for quality issues, and the protocol can respond to these reviews
-  by enacting proportional slashing events.
-
+  La création d'un registre ouvert, public et stable pour tous les logiciels open source permettrait aux projets de publier des versions de manière indépendante plutôt 
+  que de s'appuyer sur des tiers qui rassemblent ces données irrégulières dans des centaines de systèmes séparés (et dupliqués). 
+  Les responsables des packages publieront leurs versions dans un registre décentralisé alimenté par une blockchain 
+  byzantine tolérante aux pannes pour éliminer les sources uniques de défaillance, 
+  fournir des versions immuables et permettre aux communautés de gouverner leurs régions de l'écosystème open source, 
+  indépendamment des agendas externes. Tea encourage la maintenance de l'open source en permettant aux participants du réseau de miser de la valeur sur les packages 
+  dont ils dépendent et qu'ils souhaitent sécuriser. Le graphique du protocole de thé fournit un enregistrement immuable des packages, 
+  des exigences de dépendance, l'authenticité du package et des oracles d'utilisation pour informer l'algorithme de rémunération du thé. 
+  L'inflation systématique est distribuée à tous les packages sur la base de cet algorithme. Si des problèmes de sécurité ou de développement sont détectés, 
+  les développeurs peuvent faire des réclamations étayées par des preuves contre le package, et une réduction peut se produire. 
+  Les membres de la communauté open source peuvent examiner les packages pour détecter des problèmes de qualité, 
+  et le protocole peut répondre à ces examens en adoptant des événements de réduction proportionnelle.
 author:
 - Max Howell
 - Timothy Lewis
